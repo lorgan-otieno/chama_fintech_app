@@ -1,0 +1,10 @@
+* text=auto
+*.js text
+*.css text
+*.html text
+*.png binary
+*.jpg binary
+*.git binary
+*.gif binary
+*.ico binary
+*.gitattributes text eol=lf
